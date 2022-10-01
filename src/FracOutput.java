@@ -5,7 +5,7 @@ public class FracOutput {
 String input;
 float n, d;
 
-input = JOptionPane.showInputDialog("Geben Sie den numerator of fraction a ");
+input = JOptionPane.showInputDialog("Enter the numerator of fraction a ");
 n = Float.parseFloat(input);
 
 input = JOptionPane.showInputDialog("Enter the denominator of fraction a ");
